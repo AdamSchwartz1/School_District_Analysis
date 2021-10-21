@@ -3,8 +3,6 @@
 The purpose of this analysis was to modify the results from the original findings due to some students mis-reporting their scores. It was determined that some of the math and reading scores for 9th graders from Thomas High School were fraudulent so I had to change all of those scores to NAN and then re-run the analysis.
 
 ## Results
-Using bulleted lists and images of DataFrames as support, address the following questions
-
 - How is the district summary affected?
     - The district summary was not affected a lot. Math and reading scores both slightly dropped but the overall passing percent only dropped by .3%
 - How is the school summary affected?
@@ -16,8 +14,6 @@ Using bulleted lists and images of DataFrames as support, address the following 
     - Scores by school spending - Since the percentage of scores barely changed for Thomas High, the scores by school spending was unaffected due to the inclusion of the other schools in            that range.
     - Scores by school size - Since the percentage of scores barely changed for Thomas High, the scores by school size was unaffected due to the inclusion of the other schools in                that range.
     - Scores by school type - Since the percentage of scores barely changed for Thomas High, the scores by school type was unaffected due to the inclusion of the other schools in                that range.
-
-http://localhost:8889/notebooks/PyCitySchools_Challenge.ipynb
 
 ## Summary
 Overall, removing the ninth grade reading and math scores for Thomas High School from our analysis barely affected the results. Here are four takeaways that I had:
