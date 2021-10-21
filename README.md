@@ -23,4 +23,5 @@ Overall, removing the ninth grade reading and math scores for Thomas High School
 2. The breakdown of scores by school spending, school size, and school type weren't affected at all.
 3. The overall district summary didn't see much of an affect. The overall passing percentage only dropped by .3%.
 4. When it came to ranking schools based on overall passing percentage, Thomas still had the second highest percentage. Their percentage dropped from 90.95% to 90.63 % but that wasn't enough to drop them from the second highest performing school.<br />
+<br />
 This analysis took a fair amount of work to remove the 9th grade scores from Thomas High and didn't yield any substantial changes, but I was able to provide the accurate numbers while upholing the district's standards of academic honesty.
