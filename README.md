@@ -17,6 +17,8 @@ Using bulleted lists and images of DataFrames as support, address the following 
     - Scores by school size - Since the percentage of scores barely changed for Thomas High, the scores by school size was unaffected due to the inclusion of the other schools in                that range.
     - Scores by school type - Since the percentage of scores barely changed for Thomas High, the scores by school type was unaffected due to the inclusion of the other schools in                that range.
 
+http://localhost:8889/notebooks/PyCitySchools_Challenge.ipynb
+
 ## Summary
 Overall, removing the ninth grade reading and math scores for Thomas High School from our analysis barely affected the results. Here are four takeaways that I had:
 1. There were either very few scores altered or Thomas high performed pretty similar across all grades. Looking at the breakdown of reading and math scores by grade level prior to removing the 9th grade totals, I'm leaning towards the latter. All four grades at Thomas High performed very similarly so when the 9th grade was removed, their average scores and percentages weren't affected much.
