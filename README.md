@@ -18,7 +18,7 @@ The purpose of this analysis was to modify the results from the original finding
 ## Summary
 Overall, removing the ninth grade reading and math scores for Thomas High School from our analysis barely affected the results. Here are four takeaways that I had:
 1. There were either very few scores altered or Thomas high performed pretty similar across all grades. Looking at the breakdown of reading and math scores by grade level prior to removing the 9th grade totals, I'm leaning towards the latter. All four grades at Thomas High performed very similarly so when the 9th grade was removed, their average scores and percentages weren't affected much.
-2. The breakdown of scores by school spending, school size, and school type weren't affected at all.
+2. The breakdown of scores by school spending, school size, and school type were not affected.
 3. The overall district summary didn't see much of an affect. The overall passing percentage only dropped by .3%.
 4. When it came to ranking schools based on overall passing percentage, Thomas still had the second highest percentage. Their percentage dropped from 90.95% to 90.63 % but that wasn't enough to drop them from the second highest performing school. The first image shows the results of top performing schools that included the 9th grade scores from Thomas and the second image excludes those scores.
 
