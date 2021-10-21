@@ -22,7 +22,7 @@ Overall, removing the ninth grade reading and math scores for Thomas High School
 3. The overall district summary didn't see much of an affect. The overall passing percentage only dropped by .3%.
 4. When it came to ranking schools based on overall passing percentage, Thomas still had the second highest percentage. Their percentage dropped from 90.95% to 90.63 % but that wasn't enough to drop them from the second highest performing school. The first image shows the results of top performing schools that included the 9th grade scores from Thomas and the second image excludes those scores.
 
-<img width="986" alt="Screen Shot 2021-10-21 at 4 19 31 PM" src="https://user-images.githubusercontent.com/90946252/138358389-63b33269-98c7-479d-9491-84abbabfcf62.png">
+<img width="988" alt="Screen Shot 2021-10-21 at 4 23 09 PM" src="https://user-images.githubusercontent.com/90946252/138358782-95b14b42-dafe-497b-bf16-1cee8f8f2746.png">
 
 <img width="984" alt="Screen Shot 2021-10-21 at 4 17 41 PM" src="https://user-images.githubusercontent.com/90946252/138358159-90f338a7-80ae-46cb-b14f-14c02c72dd23.png">
 
